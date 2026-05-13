@@ -1,0 +1,14 @@
+{
+    "easy": [
+        {
+            "bgImageName": "BOBOIBOY",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/adultcolorbynumber/refs/heads/main/1.jpg"
+        }
+    ],
+    "number": [
+        {
+            "bgImageName": "BOBOIBOY",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/adultcolorbynumber/refs/heads/main/number1.jpg"
+        }
+    ]
+}
